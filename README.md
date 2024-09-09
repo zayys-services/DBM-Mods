@@ -8,9 +8,10 @@
 
 ## Version History
 
-### [1.0.0] - 2024-09-09
+### [1.0.0] **BETA** - 2024-09-09
 - Initial release of Zayy's Discord Bot Maker Mods.
 - Added integration for fetching invoices from Sell.app (development in progress).
+- Made pre-release and an installer, more on release notes about that and other things.
 
 ## License
 
