@@ -154,7 +154,7 @@ module.exports = {
     preciseCheck: false,
     author: "Zayys Servuces",
     authorUrl: "https://github.com/zayys-services/DBM-Mods/tree/main",
-    downloadUrl: "https://github.com/zayys-services/DBM-Mods/tree/main/actions/fetch_sellapp_invoices.js",
+    downloadUrl: "https://github.com/zayys-services/DBM-Mods/blob/main/actions/fetch_sell_app_invoices.js",
     maintainer: { name: "Zayys Services", url: "https://github.com/zayys-services/DBM-Mods/tree/main" },
     repository: { name: "DBM Mods - ZS", url: "https://github.com/zayys-services/DBM-Mods/tree/main" }
   },
